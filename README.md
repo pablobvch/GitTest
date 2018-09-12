@@ -1,15 +1,14 @@
 # GitTest
-Project demo to test command on Git
 
-In this Test project, you are practicing the following commands:
+###### In this Test project, you are practicing the following commands:
 
-git status
-git log
-git branch
-git checkout
-git add
-git push origin
-git clone
-git remote -v
+- git status
+- git log
+- git branch
+- git checkout
+- git add
+- git push origin
+- git clone
+- git remote -v
 
-With the aim of learning and implementing it in future projects
+###### With the aim of learning and implementing it in future projects :+1: .
